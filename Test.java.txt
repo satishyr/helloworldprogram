@@ -1,6 +1,0 @@
-class Test
-{
-System.out.println("hello");
-
-int =24;
-}
